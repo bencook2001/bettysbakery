@@ -1,0 +1,11 @@
+def start():
+    print("10 Chocolate Cupcakes")
+    print()
+    print("120g plain flour")
+    print("140g sugar")
+    print("1 teaspoon baking powder")
+    print("40g unsalted butter")
+    print("50g dark chocolate")
+    print("1 free-range egg")
+    print("125ml milk")
+    print("1 orange juice only")
